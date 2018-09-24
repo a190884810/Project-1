@@ -1,2 +1,2 @@
 # Project-1
-For the ass project, infix parser
+For the CS303 project, infix parser
